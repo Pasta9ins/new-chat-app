@@ -3,8 +3,8 @@ import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
 
 const PREVIEW_MESSAGES = [
-  { id: 1, content: "Hey! how're you? How was your exam?", isSent: false },
-  { id: 2, content: "I'm doing great! Exam wasn't that great buddy.", isSent: true },
+  { id: 1, content: "Hey yo! What's up?", isSent: false },
+  { id: 2, content: "Hey! Long time no chat!", isSent: true },
 ];
 const THEMES = ['light', 'dark', 'cupcake', 'bumblebee', 'emerald', 'corporate', 'synthwave', 'retro', 
               'cyberpunk', 'valentine', 'halloween', 'garden', 'forest', 'aqua', 'lofi', 'pastel', 
