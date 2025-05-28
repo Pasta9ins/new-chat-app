@@ -1,4 +1,15 @@
-A real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) with Socket.IO for instant messaging.
+## **Konnect**
+
+Hey everyone I'm excited to share **Konnect**, a fully functional real-time chat application that I built using the MERN stack along with Socket.IO for seamless, bi-directional communication between users.
+
+
+With Konnect, users can:
+
+- Register and log in securely
+- Send real-time text messages
+- Share pictures in conversations
+- Choose from 20+ unique themes for personalization
+- Update their profile picture for a customized experience
 
 🔗 [Live Demo](https://new-chat-app-1-12qr.onrender.com/) 
 
